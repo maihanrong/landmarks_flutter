@@ -1,6 +1,6 @@
 # landmarks_flutter
 
-A new Flutter project.
+Flutter实现Swift UI的Landmark App
 
 # landmarks_flutter预览
 ![landmark_category](https://user-images.githubusercontent.com/16502006/177573110-7e735a6e-7df4-469a-b948-c5d448f6a53a.png)![landmark_list](https://user-images.githubusercontent.com/16502006/177573132-ac78f261-8e78-45cb-a63f-360f27ec2b71.png)![landmark_detail](https://user-images.githubusercontent.com/16502006/177573155-8bf6205c-dfc1-4cb3-ae7d-59cb72173442.png)
